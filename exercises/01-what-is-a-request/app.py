@@ -1,15 +1,6 @@
-from http.client import HTTPSConnection
+import requests
 
-host_url = "assets.breatheco.de"
-path = "/apis/fake/hello.php"
+url = "https://assets.breatheco.de/apis/fake/sample/404-example.php"
+response = requests.get(url)
 
-conn = HTTPSConnection(host_url)
-conn.request("GET", path, body=None, headers={})
-
-r1 = conn.getresponse()
-response = {
-    "status": r1.status,
-    "body": r1.read()
-}
-
-print(response)
+print("The response status is: "+str(response.status_code))
