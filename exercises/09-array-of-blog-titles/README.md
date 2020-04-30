@@ -1,4 +1,4 @@
-# `09` Array of post titles
+# `09` Array of blog titles
 
 # 📝 Instructions
 
