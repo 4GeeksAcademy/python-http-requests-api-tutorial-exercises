@@ -3,7 +3,7 @@
     <td><img src="https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,32"></td>
     <td>
       <h1 align="center"> Python API Requests Tutorial at 4Geeks Academy<br /></h1>
-      <small>By <a href="https://twitter.com/alesanchezr">@alesanchezr</a></small>
+      <p>By <a href="https://twitter.com/alesanchezr">@alesanchezr</a></p>
       <img src="https://img.shields.io/github/last-commit/4geeksacademy/python-http-requests-api-tutorial-exercises" />
       <a href="https://breatheco.de"><img src="https://img.shields.io/badge/certified-BreatheCode-blue" /></a>
       <a href="https://twitter.com/alesanchezr"><img src="https://img.shields.io/twitter/follow/alesanchezr?style=social&logo=twitter" alt="follow on Twitter"></a>
