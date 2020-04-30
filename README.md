@@ -2,8 +2,8 @@
   <tr>
     <td><img src="https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,32"></td>
     <td>
-      <h1 align="center"> Python API Requests Tutorial at 4Geeks Academy<br /></h1>
-      <p>By <a href="https://twitter.com/alesanchezr">@alesanchezr</a></p>
+      <h1> 🐍 Python API Requests Tutorial and Exercises</h1>
+      <p>By <a href="https://twitter.com/alesanchezr">@alesanchezr</a> and <a href="https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises/graphs/contributors">other contributors</a> at <a href="http://4geeksacademy.co/">4Geeks Academy</a></p>
       <img src="https://img.shields.io/github/last-commit/4geeksacademy/python-http-requests-api-tutorial-exercises" />
       <a href="https://breatheco.de"><img src="https://img.shields.io/badge/certified-BreatheCode-blue" /></a>
       <a href="https://twitter.com/alesanchezr"><img src="https://img.shields.io/twitter/follow/alesanchezr?style=social&logo=twitter" alt="follow on Twitter"></a>
@@ -12,20 +12,27 @@
   </tr>
 </table>
 
-Learn HTTP and how to use the Python Requests package to create HTTP Requests GET, POST, PUT, DELETE.
+In this series you will Learn HTTP and how to use the Python Requests package to create HTTP Requests GET, POST, PUT, DELETE. The entire tutorial is 👆 interactive, ✅ auto-graded and with. 📹 video tutorials.
 
-<ol>
-  <li><a href="https://github.com/4GeeksAcademy/python-beginner-programming-exercises">Python for Beginners</a></li>
-  <li><a href="https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises">Practice Looping Lists and Tuples</a></li>
-  <li><a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises">Practice functions</a></li>
-  <li><a href="https://github.com/4GeeksAcademy/master-python-programming-exercises">Master Python</a></li>
-  <li><a href="https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises">Python API Requests</a>← you are here right now</li>
-</ol>
+<h3>📚 Table of contents:</h3>
+<table>
+  <tr>
+    <td>1. <a href="https://github.com/4GeeksAcademy/python-beginner-programming-exercises">Python for Beginners</a> </td>
+  </tr>
+  <tr color="white"><td>2. <a href="https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises">Practice Looping Lists and Tuples</a></td></tr>
+  <tr><td>3. <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises">Practice functions</a></td></tr>
+  <tr><td>4. <a href="https://github.com/4GeeksAcademy/master-python-programming-exercises">Master Python (intermediate)</a></td></tr>
+  <tr><td>5. <a href="https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises">Python API Requests</a></td>
+<td>← 🔥 your are here now</td>
+    <td><a href="https://gitpod.io#https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises"><img src="https://gitpod.io/button/open-in-gitpod.svg" /></a></td>
+  </tr>
+  <tr><td>6. What next? <a href="https://github.com/4GeeksAcademy/About-4Geeks-Academy/issues/new">Request a new tutorial</a> or <a href="https://github.com/4GeeksAcademy/About-4Geeks-Academy/labels/help%20wanted">collaborate</a>.<br /> We will feature your profile in our list of contributors</td></tr>
+</table>
 
 These exercises were built in collaboration, we need you! If you find any bugs or misspells plese contribute and report them.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/4GeeksAcademy/react-exercises/master/preview.gif">
+  <a href="https://www.youtube.com/watch?v=GjQEotj3t6Y"><img src="https://github.com/4GeeksAcademy/python-beginner-programming-exercises/blob/master/python-intro.gif?raw=true"></a>
 </p>
 
 <h2>One click installation:</h2>
