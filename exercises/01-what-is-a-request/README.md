@@ -14,7 +14,7 @@ print(response.status_code)
 Change the variable url to make it request to: 
 
 ```bash
-https://assets.breatheco.de/apis/fake/hello.php
+https://assets.breatheco.de/apis/fake/sample/hello.php
 ```
 
 Note: The console should print a 200 status code.

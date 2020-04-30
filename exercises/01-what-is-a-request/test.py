@@ -5,5 +5,5 @@ from mock import patch
 def test_url(app):
     with patch('requests.get') as mock_request:
         app()
-        url = "https://assets.breatheco.de/apis/fake/hello.php"
+        url = "https://assets.breatheco.de/apis/fake/sample/hello.php"
         assert mock_request.call_args.args[0] == url

@@ -1,7 +1,8 @@
 # `05` Project name
 
-The following endpoint is ideal to retrieve student projects:
-[https://assets.breatheco.de/apis/fake/sample/project1.php](https://assets.breatheco.de/apis/fake/sample/project1.php)
+The following endpoint is ideal to retrieve student projects:  
+
+GET [https://assets.breatheco.de/apis/fake/sample/project1.php](https://assets.breatheco.de/apis/fake/sample/project1.php)
 
 ```json
 {
@@ -21,13 +22,15 @@ The following endpoint is ideal to retrieve student projects:
 
 Please call the endpoint and print the project name on the terminal (only the project name)
 
+Example output:
 ```bash
 Coursera eLearning
 ```
 
 ## 💡Hint
 
-1. Do a GET request to the endpoint.
-2. Use the [.json() method](https://www.w3schools.com/python/ref_requests_response.asp) to get the response body as a dictionary.
-3. Print the project name, you can access the property name on the response dictionary.
+1. Similar exercise to the previous one.
+2. Do a GET request to the endpoint.
+3. Use the [.json() method](https://www.w3schools.com/python/ref_requests_response.asp) to get the response body as a dictionary (same as you did on last exercise).
+4. Print the project name, you can access the property name on the response dictionary.
 

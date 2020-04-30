@@ -11,4 +11,4 @@ print(response.text)
 
 # 📝 Instructions
 
-Print on the console the response body only for 200 requests, for all the other print "Something wend wrong".
+Print on the console the response body only for 200 requests, for all the other print "Something went wrong".

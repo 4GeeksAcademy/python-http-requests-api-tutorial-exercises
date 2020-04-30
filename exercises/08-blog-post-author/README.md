@@ -3,7 +3,7 @@
 Take a moment to understand the response body when doing a GET request to this endpoint:
 [https://assets.breatheco.de/apis/fake/sample/weird_portfolio.php](https://assets.breatheco.de/apis/fake/sample/weird_portfolio.php)
 
-👉🏼 [Here is a brief explanation.](https://www.youtube.com/watch?v=fwfBYVrvSk0)
+👉🏼 [Here is a brief video explanation.](https://www.youtube.com/watch?v=fwfBYVrvSk0)
 
 # 📝 Instructions
 

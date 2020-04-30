@@ -10,5 +10,5 @@ Create a condition to print on the console the following messages depending on t
 | -----     | -----     |
 | 404       | The URL you asked is not found |
 | 503       | Unavailable right now |
-| 200       | Everythign went perfect |
+| 200       | Everything went perfect |
 | 400       | Something is wrong on the request params |

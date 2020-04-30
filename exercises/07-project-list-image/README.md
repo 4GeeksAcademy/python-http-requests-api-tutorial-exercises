@@ -2,7 +2,7 @@
 
 # 📝 Instructions
 
-Doing a GET request to the same URL please pring the last image URL of the last project.
+Do a GET request to the same URL as in the previous exercise, print the `last` image URL in the `last` project.
 
 Example output:
 ```bash
@@ -16,5 +16,5 @@ https://image.shutterstock.com/image-vector/trophy-cup-award-vector-icon-260nw-5
 3. Find the last project on the list.
 4. Find the last image of that project.
 5. Print the image URL on the console.
-6. You dont need to loop, jsut use the positions (index).
+6. No need to loop, just use the numerical positions (index) to access the information
 

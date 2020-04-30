@@ -14,7 +14,7 @@ def test_url_200(capsys, app):
         mock_request.return_value.status_code = 200
         app()
         captured = capsys.readouterr()
-        assert "Everythign went perfect\n" == captured.out
+        assert "Everything went perfect\n" == captured.out
 
 @pytest.mark.it("When testing for 404 it should print The URL you asked is not found'")
 def test_url_404(capsys, app):
