@@ -5,6 +5,8 @@ Take a moment to understand the response body when doing a GET request to this e
 
 👉🏼 [Here is a brief video explanation.](https://www.youtube.com/watch?v=fwfBYVrvSk0)
 
+![json explanation](https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises/blob/master/assets/traversion_json.png?raw=true)
+
 # 📝 Instructions
 
 Get the author name of the first post.
