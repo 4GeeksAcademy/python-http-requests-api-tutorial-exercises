@@ -12,3 +12,4 @@ Create a condition to print on the console the following messages depending on t
 | 503       | Unavailable right now |
 | 200       | Everything went perfect |
 | 400       | Something is wrong on the request params |
+| anything else | anything |
