@@ -1,4 +1,4 @@
-# `11` Get atthachment by id
+# `11` Get attachment by id
 
 # 📝 Instructions
 
@@ -9,5 +9,5 @@ Using the same endpoint from the previous exercise, create a function `get_attac
 1. Create the function `get_attachment_by_id` that recives the `attachment_id` as a parameter.
 2. Loop all the posts.
 3. Loop all the attachments for each post.
-4. If the attachchment has the given `attachment_id` in the function paramter, return it.
+4. If the attachment has the given `attachment_id` in the function parameter, return it.
 
