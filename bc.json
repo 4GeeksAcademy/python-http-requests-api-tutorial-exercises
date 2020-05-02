@@ -97,6 +97,7 @@
             "title": "08-blog-post-author",
             "path": "exercises/08-blog-post-author",
             "translations": [
+                "es",
                 "us"
             ]
         },
@@ -105,6 +106,7 @@
             "title": "09-array-of-blog-titles",
             "path": "exercises/09-array-of-blog-titles",
             "translations": [
+                "es",
                 "us"
             ]
         },
@@ -113,6 +115,7 @@
             "title": "10-get_post_tags",
             "path": "exercises/10-get_post_tags",
             "translations": [
+                "es",
                 "us"
             ]
         },
@@ -121,6 +124,7 @@
             "title": "11-get_attachment_by_id",
             "path": "exercises/11-get_attachment_by_id",
             "translations": [
+                "es",
                 "us"
             ]
         },
@@ -129,6 +133,7 @@
             "title": "12-post-request",
             "path": "exercises/12-post-request",
             "translations": [
+                "es",
                 "us"
             ]
         },
@@ -137,6 +142,7 @@
             "title": "13-post-request-body",
             "path": "exercises/13-post-request-body",
             "translations": [
+                "es",
                 "us"
             ]
         }
