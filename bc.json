@@ -1,3 +1,150 @@
 {
-    "language": "python3"
+    "port": 3000,
+    "address": "localhost",
+    "editor": "gitpod",
+    "outputPath": "./.breathecode/dist",
+    "publicPath": "/preview",
+    "grading": "isolated",
+    "ignoreRegex": null,
+    "webpack_template": null,
+    "disable_grading": false,
+    "onCompilerSuccess": null,
+    "language": "python3",
+    "compiler": "python3",
+    "tester": "pytest",
+    "actions": [
+        "run",
+        "test",
+        "reset"
+    ],
+    "session": 3445355432462036000,
+    "exercisesPath": "./exercises",
+    "exercises": [
+        {
+            "slug": "01-hello-world",
+            "title": "01-hello-world",
+            "path": "exercises/01-hello-world",
+            "translations": [
+                "es",
+                "us"
+            ]
+        },
+        {
+            "slug": "01-what-is-a-request",
+            "title": "01-what-is-a-request",
+            "path": "exercises/01-what-is-a-request",
+            "translations": [
+                "es",
+                "us"
+            ]
+        },
+        {
+            "slug": "02-random-status",
+            "title": "02-random-status",
+            "path": "exercises/02-random-status",
+            "translations": [
+                "es",
+                "us"
+            ]
+        },
+        {
+            "slug": "03-response-body",
+            "title": "03-response-body",
+            "path": "exercises/03-response-body",
+            "translations": [
+                "es",
+                "us"
+            ]
+        },
+        {
+            "slug": "04-response-body-json",
+            "title": "04-response-body-json",
+            "path": "exercises/04-response-body-json",
+            "translations": [
+                "es",
+                "us"
+            ]
+        },
+        {
+            "slug": "05-project-name",
+            "title": "05-project-name",
+            "path": "exercises/05-project-name",
+            "translations": [
+                "es",
+                "us"
+            ]
+        },
+        {
+            "slug": "06-project-list",
+            "title": "06-project-list",
+            "path": "exercises/06-project-list",
+            "translations": [
+                "es",
+                "us"
+            ]
+        },
+        {
+            "slug": "07-project-list-image",
+            "title": "07-project-list-image",
+            "path": "exercises/07-project-list-image",
+            "translations": [
+                "es",
+                "us"
+            ]
+        },
+        {
+            "slug": "08-blog-post-author",
+            "title": "08-blog-post-author",
+            "path": "exercises/08-blog-post-author",
+            "translations": [
+                "es",
+                "us"
+            ]
+        },
+        {
+            "slug": "09-array-of-blog-titles",
+            "title": "09-array-of-blog-titles",
+            "path": "exercises/09-array-of-blog-titles",
+            "translations": [
+                "es",
+                "us"
+            ]
+        },
+        {
+            "slug": "10-get_post_tags",
+            "title": "10-get_post_tags",
+            "path": "exercises/10-get_post_tags",
+            "translations": [
+                "es",
+                "us"
+            ]
+        },
+        {
+            "slug": "11-get_attachment_by_id",
+            "title": "11-get_attachment_by_id",
+            "path": "exercises/11-get_attachment_by_id",
+            "translations": [
+                "es",
+                "us"
+            ]
+        },
+        {
+            "slug": "12-post-request",
+            "title": "12-post-request",
+            "path": "exercises/12-post-request",
+            "translations": [
+                "es",
+                "us"
+            ]
+        },
+        {
+            "slug": "13-post-request-body",
+            "title": "13-post-request-body",
+            "path": "exercises/13-post-request-body",
+            "translations": [
+                "es",
+                "us"
+            ]
+        }
+    ]
 }
