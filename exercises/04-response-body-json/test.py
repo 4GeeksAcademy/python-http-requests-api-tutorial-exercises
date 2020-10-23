@@ -20,4 +20,5 @@ def test_url_output(capsys, app):
         mock_request.return_value = FakeResponse()
         app()
         captured = capsys.readouterr()
-        assert "Current time: 19 hrs 45 min and 06 sec\n" == captured.out
+        assert "Current time: 19 hrs 45 min and 06 sec\n", "Hora actual: 17 h 06 min y 23 seg" == captured.out
+  
