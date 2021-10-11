@@ -8,10 +8,11 @@ Using the same endpoint from the previous exercise, create a function `get_title
 
 1. Create the function `get_titles`.
 2. Declare a new empty array called `titles`.
-2. Loop each post from the list of posts.
-3. Get the title of each post.
-3. Add that title to the new array.
-4. Return the titles array
+3. Do the request to the endpoint inside of the function.
+4. Loop each post from the list of posts.
+5. Get the title of each post.
+6. Add that title to the new array.
+7. Return the titles array.
 
 The console output should be something similar to this:
 
