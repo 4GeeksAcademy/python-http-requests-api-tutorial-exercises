@@ -4,18 +4,16 @@
 !.gitignore
 !.gitpod.yml
 !.gitpod.Dockerfile
+!bc.json
 !learn.json
 !README.md
 
-!/assets
 !/exercises
 !/exercises/*
 
-*.pyc
-__pycache__/
-.pytest_cache/
-
-!/.breathecode
-/.breathecode/**
-!/.breathecode/resets
-!/.breathecode/resets/**
+!/.learn
+/.learn/**
+!/.learn/resets
+!/.learn/resets/**
+!/.learn/assets
+!/.learn/assets/**
