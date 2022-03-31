@@ -33,7 +33,7 @@ Todo el tutorial es 👆 interactivo, ✅ calificado automáticamente y con 📹
 
 Estos Ejercicios son colaborativos, ¡te necesitamos! Si encuentras algún error o falta de ortografía, por favor contribuye y repórtalo.
 
-## One click installation:
+## Ábrelo en Gitpod con un clic (Instalación de un clic):
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises.git)
 
