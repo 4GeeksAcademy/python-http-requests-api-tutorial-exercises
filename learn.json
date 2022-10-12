@@ -3,8 +3,8 @@
     "slug": "python-flask-api-tutorial",
     "description": "Create a Todo list API Interactively using Python language and the Flask Framework",
     "repository": "https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises",
-    "video-solutions": false,
-    "bugs-link": "https://github.com/learnpack/learnpack/issues/new",
+    "videoSolutions": false,
+    "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
    
         "editor": {
             "version": "1.0.73"
