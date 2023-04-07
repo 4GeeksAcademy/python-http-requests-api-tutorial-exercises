@@ -1,41 +1,22 @@
-<table>
-  <tr>
-    <td><img src="https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,32"></td>
-    <td>
-      <h1> 🐍 Tutorial y Ejercicios de Python API Requests</h1>
-      <p>Por <a href="https://twitter.com/alesanchezr">@alesanchezr</a> y <a href="https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises/graphs/contributors">otros colaboradores</a> de <a href="http://4geeksacademy.co/">4Geeks Academy</a></p>
-      <img src="https://img.shields.io/github/last-commit/4geeksacademy/python-http-requests-api-tutorial-exercises" />
-      <a href="https://breatheco.de"><img src="https://img.shields.io/badge/certified-BreatheCode-blue" /></a>
-      <a href="https://twitter.com/alesanchezr"><img src="https://img.shields.io/twitter/follow/alesanchezr?style=social&logo=twitter" alt="follow on Twitter"></a>
-      <a href="https://gitpod.io#https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises.git"><img src="https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod" /></a>
-    </td>
-  </tr>
-</table>
+<!-- hide -->
+# 🐍 Tutorial y Ejercicios de Python API Requests
+
+Por <a href="https://twitter.com/alesanchezr">@alesanchezr</a> y <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises/graphs/contributors">otros contribuidores</a> at <a href="http://4geeksacademy.co/">4Geeks Academy</a>
+<!-- endhide -->
 
 En esta serie, aprenderás HTTP y cómo usar el package requests de Python para crear solicitudes HTTP GET, POST, PUT, DELETE. 
 
 Todo el tutorial es 👆 interactivo, ✅ calificado automáticamente y con 📹 videos tutoriales.
 
-<h3>📚 Tabla contenidos:</h3>
-<table>
-  <tr>
-    <td>1. <a href="https://github.com/4GeeksAcademy/python-beginner-programming-exercises">Python para principiantes</a> </td>
-  </tr>
-  <tr color="white"><td>2. <a href="https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises">Practica loops en listas y tuplas</a></td></tr>
-  <tr><td>3. <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises">Practica funciones</a></td></tr>
-  <tr><td>4. <a href="https://github.com/4GeeksAcademy/master-python-programming-exercises">Master Python (intermedio)</a></td></tr>
-  <tr><td>5. <a href="https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises">Python API Requests</a></td>
-<td>← 🔥 estás aquí</td>
-    <td><a href="https://gitpod.io#https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises"><img src="https://gitpod.io/button/open-in-gitpod.svg" /></a></td>
-  </tr>
-  <tr><td>6. ¿Qué sigue? <a href="https://github.com/4GeeksAcademy/About-4Geeks-Academy/issues/new">Solicita un nuevo tutorial</a> o <a href="https://github.com/4GeeksAcademy/About-4Geeks-Academy/labels/help%20wanted">colabora</a>.<br /> Añadiremos tu perfil a nuestra lista de colaboradores</td></tr>
-</table>
-
 Estos Ejercicios son colaborativos, ¡te necesitamos! Si encuentras algún error o falta de ortografía, por favor contribuye y repórtalo.
 
-## Ábrelo en Gitpod con un clic (Instalación de un clic):
+<!-- hide -->
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises.git)
+## Instalación en un clic (recomendado)
+
+Puedes empezar estos ejercicios en pocos segundos haciendo clic en: [Abrir en Codespaces](https://codespaces.new/?repo=4GeeksAcademy/python-http-requests-api-tutorial-exercises) (recomendado) o [Abrir en Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises).
+
+> Una vez ya tengas abirto VSCode los ejercicios de LearnPack deberían empezar automáticamente, si esto no sucede puedes intentar empezar los ejercicios escribiendo este comando en tu terminal: `$ learnpack start`
 
 
 ### Instalación local:
@@ -62,7 +43,7 @@ Nota: Una vez que termine de descargar, encontrarás la carpeta "exercises" que 
 $ pip install pytest==4.4.2 mock pytest-testdox
 $ learnpack start
 ```
-
+<!-- endhide -->
 Nota: Estos ejercicios tienen calificación automática pero es un tanto rígida, te recomiendo ignorar los tests, considéralos como una recomendación o podrías frustrarte.
 
 ## ¿Cómo están organizados los ejercicios?
