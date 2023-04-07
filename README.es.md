@@ -23,14 +23,14 @@ Puedes empezar estos ejercicios en pocos segundos haciendo clic en: [Abrir en Co
 
 1. Instala learnpack, el administrador de paquetes para tutoriales de aprendizaje y el complemento del compilador html para learnpack, asegúrate de tener también node.js 14+:
 
-```
+```bash
 $ npm i learnpack -g
 $ learnpack plugins:install learnpack-python
 ```
 
 2. Descarga este ejercicio en particular usando learnpack y `cd` para entrar en la carpeta:
 
-```
+```bash
 $ learnpack download python-http-requests-api-tutorial-exercises
 $ cd python-http-requests-api-tutorial-exercises
 ```
@@ -39,7 +39,7 @@ Nota: Una vez que termine de descargar, encontrarás la carpeta "exercises" que 
 
 3. Comienza con los ejercicios ejecutando el siguiente en el mismo nivel que tu archivo learn.json:
 
-```sh
+```bash
 $ pip install pytest==4.4.2 mock pytest-testdox
 $ learnpack start
 ```
