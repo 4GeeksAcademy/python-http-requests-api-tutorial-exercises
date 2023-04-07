@@ -1,39 +1,20 @@
-<table>
-  <tr>
-    <td><img src="https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,32"></td>
-    <td>
-      <h1> 🐍 Python API Requests Tutorial and Exercises</h1>
-      <p>By <a href="https://twitter.com/alesanchezr">@alesanchezr</a> and <a href="https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises/graphs/contributors">other contributors</a> at <a href="http://4geeksacademy.co/">4Geeks Academy</a></p>
-      <img src="https://img.shields.io/github/last-commit/4geeksacademy/python-http-requests-api-tutorial-exercises" />
-      <a href="https://breatheco.de"><img src="https://img.shields.io/badge/certified-BreatheCode-blue" /></a>
-      <a href="https://twitter.com/alesanchezr"><img src="https://img.shields.io/twitter/follow/alesanchezr?style=social&logo=twitter" alt="follow on Twitter"></a>
-      <a href="https://gitpod.io#https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises.git"><img src="https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod" /></a>
-    </td>
-  </tr>
-</table>
+<!-- hide -->
+# 🐍 Python API Requests Tutorial and Exercises
+
+By <a href="https://twitter.com/alesanchezr">@alesanchezr</a> and <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises/graphs/contributors">other contributors</a> at <a href="http://4geeksacademy.co/">4Geeks Academy</a><a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/python-pandas-tutorial/blob/main/.learn/assets/pandas_cover.png?raw=true"></a>
+
+<!-- endhide -->
 
 In this series you will Learn HTTP and how to use the Python Requests package to create HTTP Requests GET, POST, PUT, DELETE. The entire tutorial is 👆 interactive, ✅ auto-graded and with. 📹 video tutorials.
 
-<h3>📚 Table of contents:</h3>
-<table>
-  <tr>
-    <td>1. <a href="https://github.com/4GeeksAcademy/python-beginner-programming-exercises">Python for Beginners</a> </td>
-  </tr>
-  <tr color="white"><td>2. <a href="https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises">Practice Looping Lists and Tuples</a></td></tr>
-  <tr><td>3. <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises">Practice functions</a></td></tr>
-  <tr><td>4. <a href="https://github.com/4GeeksAcademy/master-python-programming-exercises">Master Python (intermediate)</a></td></tr>
-  <tr><td>5. <a href="https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises">Python API Requests</a></td>
-<td>← 🔥 your are here now</td>
-    <td><a href="https://gitpod.io#https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises"><img src="https://gitpod.io/button/open-in-gitpod.svg" /></a></td>
-  </tr>
-  <tr><td>6. What next? <a href="https://github.com/4GeeksAcademy/About-4Geeks-Academy/issues/new">Request a new tutorial</a> or <a href="https://github.com/4GeeksAcademy/About-4Geeks-Academy/labels/help%20wanted">collaborate</a>.<br /> We will feature your profile in our list of contributors</td></tr>
-</table>
-
 These exercises were built in collaboration, we need you! If you find any bugs or misspells plese contribute and report them.
 
-<h2>One click installation:</h2>
+<!-- hide -->
+## One click installation (recommended):
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises.git)
+You can open these exercises in just a few seconds by clicking: [Open in Codespaces](https://codespaces.new/?repo=4GeeksAcademy/css-layouts-tutorial-exercises) (recommended) or [Open in Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/css-layouts-tutorial-exercises.git).
+
+> Once you have VSCode open the LearnPack exercises should start automatically. If exercises don't run automatically you can try typing on your terminal: `$ learnpack start`
 
 
 ## Local Installation
@@ -60,7 +41,7 @@ Note: Once you finish downloading, you will find a "exercises" folder that conta
 $ pip install pytest==4.4.2 mock pytest-testdox
 $ learnpack start
 ```
-
+<!-- endhide -->
 Note: The exercises have automatic grading but its very rigid and string, my recomendation is to ignore the tests and use them only as a recomendation or you can get frustrated.
 
 ## How are the exercises organized?
