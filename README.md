@@ -2,9 +2,10 @@
 # 🐍 Python API Requests Tutorial and Exercises
 
 By <a href="https://twitter.com/alesanchezr">@alesanchezr</a> and <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises/graphs/contributors">other contributors</a> at <a href="http://4geeksacademy.co/">4Geeks Academy</a>.
-<!-- endhide -->
 
 *Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises/blob/master/README.es.md) :es:*
+<!-- endhide -->
+
 
 In this series you will Learn HTTP and how to use the Python Requests package to create HTTP Requests GET, POST, PUT, DELETE. The entire tutorial is 👆 interactive, ✅ auto-graded and with. 📹 video tutorials.
 
@@ -17,8 +18,9 @@ You can open these exercises in just a few seconds by clicking: [Open in Codespa
 
 > Once you have VSCode open the LearnPack exercises should start automatically. If exercises don't run automatically you can try typing on your terminal: `$ learnpack start`
 
-
 ## Local Installation
+
+Clone the repository in your local environment and follow the steps below:
 
 1. Install learnpack, the package manager for learning tutorials and the html compiler plugin for learnpack, make sure you also have node.js 14+:
 
