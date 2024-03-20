@@ -29,7 +29,7 @@ $ npm i learnpack -g
 $ learnpack plugins:install learnpack-python
 ```
 
-2. Comienza con los ejercicios ejecutando el siguiente comando en el mismo nivel que tu archivo `learn.json`:
+2. Comienza con los ejercicios ejecutando el siguiente comando al mismo nivel que tu archivo `learn.json`:
 
 ```bash
 $ pip install pytest==4.4.2 mock pytest-testdox
