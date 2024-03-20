@@ -34,7 +34,7 @@ $ learnpack plugins:install learnpack-python
 2. Start the tutorial/exercises by running the following command at the same level your `learn.json` file is:
 
 ```bash
-$ pip install pytest==4.4.2 mock pytest-testdox
+$ pip3 install pytest==6.2.5 pytest-testdox mock requests toml
 $ learnpack start
 ```
 <!-- endhide -->
