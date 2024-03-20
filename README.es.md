@@ -22,7 +22,7 @@ Puedes empezar estos ejercicios en pocos segundos haciendo clic en: [Abrir en Co
 
 Clona el repositorio en tu ambiente local y sigue los siguientes pasos:
 
-1. Asegúrate de instalar LearnPack, node.js versión 14+ y Python versión 3+. Este es el comando para instalar LearnPack:
+1. Asegúrate de instalar [LearnPack](https://www.learnpack.co/), node.js versión 14+ y Python versión 3+. Este es el comando para instalar LearnPack:
 
 ```bash
 $ npm i learnpack -g
