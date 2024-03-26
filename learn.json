@@ -6,7 +6,7 @@
     },
     "slug": "python-http-requests-api-tutorial-exercises",
     "description": {
-        "us": "Learn interactively to consume and create HTTP requests to API's using Python",
+        "us": "Learn interactively to consume and create HTTP requests to APIs using Python",
         "es": "Aprende interactivamente cómo consumir APIs y hacer requests HTTP con Python"
     },
     "repository": "https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises",
