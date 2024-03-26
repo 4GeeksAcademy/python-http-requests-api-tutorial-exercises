@@ -1,4 +1,4 @@
-# 02 Creating a request
+# `01` Creating a Request
 
 Python has a [requests package](https://requests.readthedocs.io/en/master/) that allows developers to create HTTP request pretty easily.
 
@@ -9,12 +9,12 @@ response = requests.get('<destination url>')
 print(response.status_code)
 ```
 
-# 📝 Instructions
+## 📝 Instructions:
 
-Change the variable url to make it request to: 
+Update the `url` variable to make it request to this address: 
 
-```bash
+```text
 https://assets.breatheco.de/apis/fake/sample/hello.php
 ```
 
-Note: The console should print a 200 status code.
+> Note: The console should print a 200 status code.

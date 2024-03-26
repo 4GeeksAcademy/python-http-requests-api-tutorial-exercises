@@ -1,7 +1,7 @@
 import requests
 
 def get_post_tags(post_id):
-    # your code here
+    # Your code here
     return None
 
 

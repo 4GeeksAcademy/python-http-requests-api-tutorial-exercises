@@ -14,7 +14,7 @@ def test_url_call(capsys, app):
         app()
         mock_request.assert_called_once_with("https://assets.breatheco.de/apis/fake/sample/time.php")
 
-@pytest.mark.it("You should print on the console a stirng like: Current time: 19 hrs 45 min and 06 sec")
+@pytest.mark.it("You should print on the console a string like: Current time: 19 hrs 45 min and 06 sec")
 def test_url_output(capsys, app):
     with patch('requests.get') as mock_request:
         mock_request.return_value = FakeResponse()

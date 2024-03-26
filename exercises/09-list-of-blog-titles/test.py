@@ -7,14 +7,14 @@ class FakeResponse(object):
     def json(self):
         return {
             "posts": [
-                { "title": 'R.I.P. Ruby on Rails. Thanks for everything.' }, 
+                {"title": 'R.I.P. Ruby on Rails. Thanks for everything.'}, 
                 {"title": 'The fraud behind the C.A. of digital certificates is over'}, 
                 {"title": 'Manteniendo las raices'}, 
-                {"title":'DF Tech Meetup, ya es una realidad'}
+                {"title": 'DF Tech Meetup, ya es una realidad'}
             ]
         }
 
-@pytest.mark.it("You seem to be returning None or not retuning anything")
+@pytest.mark.it("You seem to be returning None or not returning anything")
 def test_for_null(app):
     with patch('requests.get') as mock_request:
         from app import get_titles
@@ -30,7 +30,7 @@ def test_return_type(app):
         tags = get_titles()
         assert isinstance(tags, list)
 
-@pytest.mark.it("Return a list of post titles like: ['title 1','title 2', 'title 3']")
+@pytest.mark.it("Return a list of post titles like: ['title 1', 'title 2', 'title 3']")
 def test_array_content(app):
     with patch('requests.get') as mock_request:
         from app import get_titles

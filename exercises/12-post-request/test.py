@@ -1,7 +1,7 @@
 import json, pytest
 from mock import patch
 
-@pytest.mark.it("POST request to the specified endpoint")
+@pytest.mark.it("Make a POST request to the specified endpoint")
 def test_url(app):
     with patch('requests.post') as mock_request:
         app()

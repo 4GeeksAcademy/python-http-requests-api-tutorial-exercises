@@ -1,7 +1,7 @@
 import json, pytest
 from mock import patch
 
-@pytest.mark.it("POST request to the specified endpoint")
+@pytest.mark.it("Make a POST request to the specified endpoint")
 def test_url(app):
     with patch('requests.post') as mock_request:
         app()
@@ -21,7 +21,7 @@ def test_headers(app):
         if "content-type" in headers:
             assert headers["content-type"].lower() == "application/json"
 
-@pytest.mark.it("Request body must be a dictionary json with id and title")
+@pytest.mark.it("Request body must be a json object with id and title")
 def test_body(app):
     with patch('requests.post') as mock_request:
         app()

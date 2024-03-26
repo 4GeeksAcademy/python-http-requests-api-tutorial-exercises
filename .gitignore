@@ -14,6 +14,7 @@
 
 !/exercises
 !/exercises/*
+exercises/*/__pycache__/
 
 !/.learn
 /.learn/**

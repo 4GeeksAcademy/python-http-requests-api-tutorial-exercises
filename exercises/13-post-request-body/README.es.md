@@ -1,24 +1,25 @@
 # `13` POST request body
 
-# 📝 Instrucciones
+## 📝 Instrucciones:
 
-Envía una solitud POST al siguiente URL:   
+1. Envía una solitud POST al siguiente URL:   
+
+```text
 https://assets.breatheco.de/apis/fake/sample/save-project-json.php   
+``` 
 
-Con `Content-Type: application/json`
+2. Con `Content-Type: application/json`
 
-Con el siguiente request body como texto JSON:
+3. Con el siguiente request body como texto JSON:
 
 ```json
 {
-    "id":2323,
+    "id": 2323,
     "title": "Very big project"
 }
-
 ```
 
-## 💡Pista
+## 💡 Pista:
 
-Usa el paquete de solicitudes del metodo post:
-https://www.w3schools.com/python/ref_requests_post.asp
++ Usa el método POST del paquete *requests*: https://www.w3schools.com/python/ref_requests_post.asp
 

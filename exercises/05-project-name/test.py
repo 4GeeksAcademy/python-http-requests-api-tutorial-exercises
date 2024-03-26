@@ -8,7 +8,7 @@ class FakeResponse(object):
         return {
             "name": "Sample Project",
             "thumb": "https://unsplash.it/450/320?image=178",
-            "description": "The coolest elarning site on the planet",
+            "description": "The coolest eLearning site on the planet",
             "images": [
                 "https://unsplash.it/450/320?image=178",
                 "https://unsplash.it/450/320?image=179",
@@ -17,13 +17,14 @@ class FakeResponse(object):
             ]
         }
 
-@pytest.mark.it("requests.get has to be called to the project url")
+@pytest.mark.it("requests.get has to be called for the project.php url")
 def test_url_call(capsys, app):
     with patch('requests.get') as mock_request:
         app()
         mock_request.assert_called_once_with("https://assets.breatheco.de/apis/fake/sample/project1.php")
 
-@pytest.mark.it("You should print on the console a stirng like: Current time: 19 hrs 45 min and 06 sec")
+
+@pytest.mark.it("You should print the name of the project on the console")
 def test_url_output(capsys, app):
     with patch('requests.get') as mock_request:
         mock_request.return_value = FakeResponse()
