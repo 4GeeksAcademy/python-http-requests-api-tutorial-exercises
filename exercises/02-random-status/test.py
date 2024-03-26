@@ -22,7 +22,7 @@ def test_url_404(capsys, app):
         mock_request.return_value.status_code = 404
         app()
         captured = capsys.readouterr()
-        assert "The URL you asked is not found\n" == captured.out
+        assert "The URL you asked for is not found\n" == captured.out
 
 @pytest.mark.it("Testing for 503: Unavailable right now")
 def test_url_503(capsys, app):

@@ -22,7 +22,7 @@ Response body:
 }
 ```
 
-Haga una solicitud GET a ese endpoint e imprime la hora en la consola con este formato:
+1. Haz una solicitud GET a ese endpoint e imprime la hora en la consola con este formato:
 
 ```bash
 Current time: 17 hrs 06 min and 23 sec
@@ -30,7 +30,7 @@ Current time: 17 hrs 06 min and 23 sec
 
 ## 💡 Pistas:
 
-1. Usa el [metodo .json()](https://www.w3schools.com/python/ref_requests_response.asp) para obtener el response body como un diccionario y almacenarlo en una variable.
-2. Obtenga las propiedades `hours`, `minutes` y `seconds` del diccionario.
-3. Concatenar todo de esta manera: `Hora actual: 17 h 06 min y 23 seg`.
++ Usa el [metodo .json()](https://www.w3schools.com/python/ref_requests_response.asp) para obtener el response body como un diccionario y almacenarlo en una variable.
++ Obtenga las propiedades `hours`, `minutes` y `seconds` del diccionario.
++ Concatenar todo de esta manera: `Hora actual: 17 h 06 min y 23 seg`.
 

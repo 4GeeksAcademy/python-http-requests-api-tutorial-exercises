@@ -11,7 +11,7 @@ class FakeResponse(object):
             ]
         }
 
-@pytest.mark.it("requests.get has to be called to the project url")
+@pytest.mark.it("requests.get has to be called for the weird_portfolio.php url")
 def test_url_call(capsys, app):
     with patch('requests.get') as mock_request:
         app()

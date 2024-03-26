@@ -7,7 +7,7 @@ def test_url_call(capsys, app):
         app()
         mock_request.assert_called_once_with("https://assets.breatheco.de/apis/fake/sample/random-status.php")
 
-@pytest.mark.it("Testing for 200: Everything went perfect")
+@pytest.mark.it("Testing for 200: Ok")
 def test_url_200(capsys, app):
     with patch('requests.get') as mock_request:
         mock_request.return_value.status_code = 200

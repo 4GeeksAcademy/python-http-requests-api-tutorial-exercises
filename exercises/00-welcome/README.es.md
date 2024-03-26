@@ -1,6 +1,6 @@
 # `00` Welcome to Python API Requests!
  
-Python Requests es el paquete más popular para consumir API y hacer solicitudes HTTP.
+Python Requests es el paquete más popular para consumir APIs y hacer solicitudes HTTP.
 
 Aquí aprenderás:
 

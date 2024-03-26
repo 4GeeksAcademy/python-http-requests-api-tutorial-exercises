@@ -11,4 +11,4 @@ elif response.status_code == 200:
 elif response.status_code == 400:
     print("Something is wrong with the request params")
 else:
-    print("Unknown code")
+    print("Unknown status code")
