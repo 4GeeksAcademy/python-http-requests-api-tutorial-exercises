@@ -21,3 +21,5 @@
 !/.learn/resets/**
 !/.learn/assets
 !/.learn/assets/**
+
+__pycache_
