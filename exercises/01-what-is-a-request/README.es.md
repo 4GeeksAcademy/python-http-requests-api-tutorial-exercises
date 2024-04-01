@@ -1,4 +1,4 @@
-# 02 Creando una solicitud (request)
+# 01 Creando una solicitud (request)
 
 Python tiene un [paquete de solicitud (requests package)](https://requests.readthedocs.io/en/master/) eso permite a los desarrolladores crear solicitudes HTTP con bastante facilidad.
 

@@ -1,4 +1,4 @@
-# 02 Creating a request
+# 01 Creating a request
 
 Python has a [requests package](https://requests.readthedocs.io/en/master/) that allows developers to create HTTP request pretty easily.
 
