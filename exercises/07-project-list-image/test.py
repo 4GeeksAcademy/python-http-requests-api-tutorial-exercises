@@ -18,7 +18,7 @@ class FakeResponse(object):
         {
             "name" : "Coursera eLearning",
             "thumb" : "https://unsplash.it/450/320?image=178",
-            "description" : "The coolest elarning site on the planet",
+            "description" : "The coolest eLearning site on the planet",
             "images" : [
                 "https://unsplash.it/450/320?image=178",
                 "https://unsplash.it/450/320?image=179",
@@ -29,7 +29,7 @@ class FakeResponse(object):
         {
             "name" : "Company Website",
             "thumb" : "https://unsplash.it/450/320?image=278",
-            "description" : "Super boring company porfolio website with the tipical about us, home, contact us sections",
+            "description" : "Super boring company portfolio website with the typical about us, home, and contact us sections",
             "images" : [
                 "https://unsplash.it/450/320?image=278",
                 "https://unsplash.it/450/320?image=280",
@@ -38,7 +38,7 @@ class FakeResponse(object):
         }
     ]
 
-@pytest.mark.it("requests.get has to be called to the project url")
+@pytest.mark.it("requests.get has to be called for the project_list.php url")
 def test_url_call(capsys, app):
     with patch('requests.get') as mock_request:
         app()

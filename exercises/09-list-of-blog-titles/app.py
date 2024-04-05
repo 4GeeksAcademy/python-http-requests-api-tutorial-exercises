@@ -1,7 +1,7 @@
 import requests
 
 def get_titles():
-    # your code here
+    # Your code here
     return None
 
 

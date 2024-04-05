@@ -1,8 +1,8 @@
-# `12` Solicitud POST
+# `12` POST request
 
-Las solicitudes POST están destinadas a la creación, por ejemplo, si tu negocio es un e-comerce de camisas , es probable que desee tener una forma de agregar nuevos clientes.
+Las solicitudes POST están destinadas a la creación, por ejemplo, si tu negocio es un e-commerce de camisetas, es probable que desees tener una forma de agregar nuevos clientes.
 
-Una solicitud de post generalmente tiene:
+Una solicitud de POST (*POST request*) generalmente tiene:
 
 | | | 
 | ---- | ---- |
@@ -10,16 +10,15 @@ Una solicitud de post generalmente tiene:
 | Content-Type | application/json |
 | Body (payload) | JSON string |
 
-# 📝 Instrucciones
+## 📝 Instrucciones:
 
-Envía una solitud POST al siguiente URL:  
+1. Envía una solitud POST al siguiente URL:  
 
 POST: https://assets.breatheco.de/apis/fake/sample/post.php 
 
-E imprime la respuesta (text response) en la consolae
+2. Imprime la respuesta (response text) en la consola.
 
-## 💡Pista
+## 💡 Pista:
 
-Usa el paquete de solicitudes del metodo post:
-https://www.w3schools.com/python/ref_requests_post.asp
++ Usa el método POST del paquete *requests*: https://www.w3schools.com/python/ref_requests_post.asp
 
