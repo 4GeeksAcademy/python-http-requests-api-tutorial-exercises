@@ -1,6 +1,8 @@
 # `00` Welcome to Python API Requests!
  
-Python Requests es el paquete más popular para consumir APIs y hacer solicitudes HTTP.
+Python Requests es una herramienta potente y ampliamente utilizada para interactuar con APIs y realizar solicitudes HTTP en aplicaciones Python. Simplifica el proceso de enviar solicitudes HTTP y manejar respuestas, convirtiéndose en una herramienta favorita entre los desarrolladores para integrarse con servicios web y obtener datos de APIs.
+
+Con Python Requests, puedes hacer fácilmente solicitudes GET, POST, PUT, DELETE para comunicarte con servidores web y obtener datos. Admite el manejo de autenticación, encabezados, cookies y sesiones, permitiendo una integración sin problemas con diversos servicios web.
 
 Aquí aprenderás:
 
