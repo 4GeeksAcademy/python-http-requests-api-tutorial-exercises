@@ -1,24 +1,28 @@
+
 {
-    "language": "python",
-    "title": {
-        "us": "Learn how to build HTTP requests with Python",
-        "es": "Aprende a hacer requests HTTP con Python"
-    },
-    "slug": "python-http-requests-api-tutorial-exercises",
-    "description": {
-        "us": "Learn interactively to consume and create HTTP requests to APIs using Python",
-        "es": "Aprende interactivamente cómo consumir APIs y hacer requests HTTP con Python"
-    },
-    "repository": "https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises",
-    "duration": 4,
-    "videoSolutions": false,
-    "difficulty": "easy",
-    "preview": "https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises/blob/master/preview.png?raw=true",
-    "repository": "https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises",
-    "projectType": "tutorial",
-    "autoPlay": true,
-    "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
-    "editor": {
-        "version": "3.1.23"
-    }
+"language": "python",
+"title": {
+    "us": "Learn how to build HTTP requests with Python",
+    "es": "Aprende a hacer requests HTTP con Python"
+},
+"slug": "python-http-requests-api-tutorial-exercises",
+"description": {
+    "us": "Learn interactively to consume and create HTTP requests to APIs using Python",
+    "es": "Aprende interactivamente cómo consumir APIs y hacer requests HTTP con Python"
+},
+"repository": "https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises",
+"duration": 4,
+"videoSolutions": false,
+"difficulty": "easy",
+"preview": "https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises/blob/master/preview.png?raw=true",
+"repository": "https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises",
+"projectType": "tutorial",
+"autoPlay": true,
+"bugsLink": "https://github.com/learnpack/learnpack/issues/new",
+"editor": {
+    "version": "3.1.36"
+},
+"telemetry": {
+    "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry"
+}
 }
