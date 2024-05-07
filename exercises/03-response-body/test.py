@@ -7,7 +7,7 @@ def test_url_call(capsys, app):
         app()
         mock_request.assert_called_once_with("https://assets.breatheco.de/apis/fake/sample/random-status.php")
 
-@pytest.mark.it("Testing for 200: Everythign went perfect")
+@pytest.mark.it("Testing for 200: Ok")
 def test_url_200(capsys, app):
     with patch('requests.get') as mock_request:
         mock_request.return_value.status_code = 200
@@ -16,7 +16,7 @@ def test_url_200(capsys, app):
         captured = capsys.readouterr()
         assert "something\n" == captured.out
 
-@pytest.mark.it("When testing for 404 it should print 'Something went wrong'")
+@pytest.mark.it("Testing for any other code: Something went wrong")
 def test_url_404(capsys, app):
     with patch('requests.get') as mock_request:
         mock_request.return_value.status_code = 404
