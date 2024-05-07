@@ -47,7 +47,7 @@ Each exercise is a small react application containing the following files:
 2. **README.md:** contains exercise instructions.
 3. **test.py:** you don't have to open this file, it contains the testing script for the exercise.
 
-> Note: The exercises have automatic grading, but it's very rigid and strict, my recommendation is to not take the tests too serious and use them only as a suggestion, or you may get frustrated.
+> Note: The exercises have automatic grading, but they're very rigid and strict, my recommendation is to not take the tests too serious and use them only as a suggestion, or you may get frustrated.
 
 ## Contributors
 
