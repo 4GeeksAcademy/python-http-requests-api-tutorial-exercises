@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=NZMkq0cIIlU"
+---
+
 # `08` Post blog author
 
 Tómate un momento para comprender el response body al hacer una solicitud GET a este endpoint:

@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=eZ_5p3vyYFY"
+---
+
 # `01` Creating a Request
 
 Python tiene integrado un [paquete de solicitudes (*requests package*)](https://requests.readthedocs.io/en/master/) eso permite a los desarrolladores crear solicitudes HTTP con bastante facilidad.

@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=si3N6peHdjM"
+---
+
 # `04` Response JSON
 
 Pero tener una respuesta basada en texto no es muy útil, es por eso que las API normalmente responden en formato CSV, JSON, YAML o XML.

@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=l9e-lSsYNOI"
+---
+
 # `10` Get post tags
 
 ## 📝 Instrucciones:
