@@ -15,9 +15,9 @@
 "videoSolutions": false,
 "difficulty": "easy",
 "preview": "https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises/blob/master/preview.png?raw=true",
-"repository": "https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises",
 "projectType": "tutorial",
 "autoPlay": true,
+"technologies": ["python", "flask", "http"],
 "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
 "editor": {
     "version": "5.0"
