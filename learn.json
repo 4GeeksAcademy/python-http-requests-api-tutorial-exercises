@@ -7,8 +7,8 @@
 },
 "slug": "python-http-requests-api-tutorial-exercises",
 "description": {
-    "us": "Learn interactively to consume and create HTTP requests to APIs using Python",
-    "es": "Aprende interactivamente cómo consumir APIs y hacer requests HTTP con Python"
+    "us": "Master Python API requests with our interactive tutorial! Learn to make GET, POST, PUT, and DELETE requests effortlessly. Start coding today!",
+    "es": "¡Domina las peticiones a la API de Python con nuestro tutorial interactivo! Aprenda a realizar peticiones GET, POST, PUT y DELETE sin esfuerzo. ¡Empieza a programar hoy mismo!"
 },
 "repository": "https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises",
 "duration": 4,
